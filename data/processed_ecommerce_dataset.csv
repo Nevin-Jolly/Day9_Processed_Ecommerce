@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Order_Year,Order_Month,Order_Month_Name,Order_Day,Order_Day_of_Week,Customer_ID,Customer_Name,City,Region,Membership_Type,Product_ID,Product_Name,Category,Brand,Unit_Price,Quantity,Order_Value,Order_Value_Category,Payment_Method,Order_Status
+O0051,2026-01-01,2026,1,January,1,Thursday,C008,Sara Ahmed,Hyderabad,South,Premium,P017,Yoga Mat,Sports,FitLife,899,4,3596,Medium Value,Net Banking,Delivered
+O0091,2026-01-01,2026,1,January,1,Thursday,C002,Zoya Khan,Delhi,North,Regular,P011,Air Fryer,Home & Kitchen,CookSmart,4999,2,9998,High Value,Credit Card,Delivered
+O0022,2026-01-02,2026,1,January,2,Friday,C023,Nikhil Sood,Chandigarh,North,Premium,P014,Data Science Handbook,Books,DataPress,899,4,3596,Medium Value,Net Banking,Delivered
+O0106,2026-01-02,2026,1,January,2,Friday,C001,Aarav Sharma,Srinagar,North,Premium,P009,Coffee Maker,Home & Kitchen,HomeBrew,3499,1,3499,Medium Value,Net Banking,Delivered
+O0076,2026-01-03,2026,1,January,3,Saturday,C019,Yusuf Dar,Srinagar,North,New,P015,Machine Learning Basics,Books,AIPress,999,1,999,Low Value,Debit Card,Delivered
+O0108,2026-01-04,2026,1,January,4,Sunday,C006,Ishita Gupta,Bengaluru,South,Premium,P020,Dumbbell Set,Sports,StrongFit,1999,1,1999,Low Value,Net Banking,Delivered
+O0041,2026-01-04,2026,1,January,4,Sunday,C008,Sara Ahmed,Hyderabad,South,Premium,P012,Water Bottle,Home & Kitchen,HydroLife,699,5,3495,Medium Value,Cash on Delivery,Delivered
+O0018,2026-01-05,2026,1,January,5,Monday,C003,Rohan Mehta,Mumbai,West,Premium,P011,Air Fryer,Home & Kitchen,CookSmart,4999,4,19996,High Value,Net Banking,Cancelled
+O0104,2026-01-05,2026,1,January,5,Monday,C011,Vivaan Kapoor,Jaipur,North,New,P006,Hoodie,Clothing,UrbanWear,1599,3,4797,Medium Value,Debit Card,Shipped
+O0110,2026-01-05,2026,1,January,5,Monday,C007,Aditya Verma,Pune,West,Regular,P005,Power Bank,Electronics,VoltPlus,1199,1,1199,Low Value,UPI,Delivered
+O0028,2026-01-07,2026,1,January,7,Wednesday,C006,Ishita Gupta,Bengaluru,South,Premium,P011,Air Fryer,Home & Kitchen,CookSmart,4999,3,14997,High Value,UPI,Delivered
+O0056,2026-01-08,2026,1,January,8,Thursday,C015,Karan Joshi,Chandigarh,North,Regular,P018,Football,Sports,SportZone,799,3,2397,Medium Value,Debit Card,Delivered
+O0021,2026-01-09,2026,1,January,9,Friday,C026,Fatima Noor,Srinagar,North,Regular,P019,Cricket Bat,Sports,BatPro,2499,1,2499,Medium Value,Debit Card,Cancelled
+O0046,2026-01-09,2026,1,January,9,Friday,C019,Yusuf Dar,Srinagar,North,New,P012,Water Bottle,Home & Kitchen,HydroLife,699,2,1398,Low Value,Cash on Delivery,Delivered
+O0043,2026-01-10,2026,1,January,10,Saturday,C003,Rohan Mehta,Mumbai,West,Premium,P012,Water Bottle,Home & Kitchen,HydroLife,699,4,2796,Medium Value,Net Banking,Delivered
+O0027,2026-01-11,2026,1,January,11,Sunday,C002,Zoya Khan,Delhi,North,Regular,P008,Sneakers,Clothing,StepUp,2999,1,2999,Medium Value,Cash on Delivery,Shipped
+O0034,2026-01-13,2026,1,January,13,Tuesday,C010,Mehak Bhat,Srinagar,North,Premium,P020,Dumbbell Set,Sports,StrongFit,1999,5,9995,High Value,Credit Card,Delivered
+O0045,2026-01-14,2026,1,January,14,Wednesday,C006,Ishita Gupta,Bengaluru,South,Premium,P017,Yoga Mat,Sports,FitLife,899,1,899,Low Value,Debit Card,Cancelled
+O0112,2026-01-15,2026,1,January,15,Thursday,C012,Aisha Mir,Delhi,North,Premium,P006,Hoodie,Clothing,UrbanWear,1599,4,6396,High Value,UPI,Delivered
+O0029,2026-01-15,2026,1,January,15,Thursday,C005,Kabir Ali,Lucknow,North,New,P017,Yoga Mat,Sports,FitLife,899,1,899,Low Value,Cash on Delivery,Cancelled
+O0079,2026-01-16,2026,1,January,16,Friday,C021,Aman Kumar,Delhi,North,Regular,P012,Water Bottle,Home & Kitchen,HydroLife,699,5,3495,Medium Value,Debit Card,Delivered
+O0094,2026-01-17,2026,1,January,17,Saturday,C011,Vivaan Kapoor,Jaipur,North,New,P002,Mechanical Keyboard,Electronics,KeyPro,2499,4,9996,High Value,Net Banking,Cancelled
+O0099,2026-01-17,2026,1,January,17,Saturday,C010,Mehak Bhat,Srinagar,North,Premium,P001,Wireless Headphones,Electronics,SoundMax,1499,2,2998,Medium Value,UPI,Shipped
+O0081,2026-01-19,2026,1,January,19,Monday,C022,Alina Shah,Pune,West,New,P018,Football,Sports,SportZone,799,2,1598,Low Value,Credit Card,Delivered
+O0102,2026-01-20,2026,1,January,20,Tuesday,C021,Aman Kumar,Delhi,North,Regular,P012,Water Bottle,Home & Kitchen,HydroLife,699,3,2097,Medium Value,Credit Card,Shipped
+O0071,2026-01-21,2026,1,January,21,Wednesday,C020,Priya Menon,Chennai,South,Premium,P016,Atomic Habits,Books,MindReads,599,1,599,Low Value,UPI,Delivered
+O0120,2026-01-21,2026,1,January,21,Wednesday,C013,Rahul Das,Kolkata,East,Regular,P020,Dumbbell Set,Sports,StrongFit,1999,1,1999,Low Value,Cash on Delivery,Cancelled
+O0025,2026-01-22,2026,1,January,22,Thursday,C026,Fatima Noor,Srinagar,North,Regular,P008,Sneakers,Clothing,StepUp,2999,2,5998,High Value,Cash on Delivery,Cancelled
+O0105,2026-01-22,2026,1,January,22,Thursday,C020,Priya Menon,Chennai,South,Premium,P016,Atomic Habits,Books,MindReads,599,4,2396,Medium Value,UPI,Delivered
+O0115,2026-01-23,2026,1,January,23,Friday,C014,Sana Malik,Mumbai,West,New,P007,Jacket,Clothing,NorthStyle,2499,2,4998,Medium Value,Credit Card,Delivered
+O0002,2026-01-25,2026,1,January,25,Sunday,C006,Ishita Gupta,Bengaluru,South,Premium,P003,Wireless Mouse,Electronics,TechGear,899,2,1798,Low Value,Debit Card,Delivered
+O0032,2026-01-25,2026,1,January,25,Sunday,C017,Dev Patel,Ahmedabad,West,Premium,P005,Power Bank,Electronics,VoltPlus,1199,2,2398,Medium Value,Credit Card,Shipped
+O0038,2026-01-25,2026,1,January,25,Sunday,C024,Maryam Khan,Hyderabad,South,Regular,P008,Sneakers,Clothing,StepUp,2999,1,2999,Medium Value,Credit Card,Delivered
+O0011,2026-01-26,2026,1,January,26,Monday,C022,Alina Shah,Pune,West,New,P020,Dumbbell Set,Sports,StrongFit,1999,2,3998,Medium Value,Net Banking,Cancelled
+O0107,2026-01-26,2026,1,January,26,Monday,C021,Aman Kumar,Delhi,North,Regular,P003,Wireless Mouse,Electronics,TechGear,899,2,1798,Low Value,Cash on Delivery,Delivered
+O0084,2026-01-27,2026,1,January,27,Tuesday,C013,Rahul Das,Kolkata,East,Regular,P004,Smart Watch,Electronics,FitTech,3299,3,9897,High Value,Credit Card,Delivered
+O0069,2026-01-27,2026,1,January,27,Tuesday,C028,Inaya Khan,Mumbai,West,Regular,P004,Smart Watch,Electronics,FitTech,3299,4,13196,High Value,Debit Card,Delivered
+O0086,2026-01-28,2026,1,January,28,Wednesday,C024,Maryam Khan,Hyderabad,South,Regular,P006,Hoodie,Clothing,UrbanWear,1599,5,7995,High Value,Debit Card,Delivered
+O0026,2026-01-28,2026,1,January,28,Wednesday,C015,Karan Joshi,Chandigarh,North,Regular,P005,Power Bank,Electronics,VoltPlus,1199,2,2398,Medium Value,UPI,Delivered
+O0042,2026-01-29,2026,1,January,29,Thursday,C012,Aisha Mir,Delhi,North,Premium,P008,Sneakers,Clothing,StepUp,2999,5,14995,High Value,Net Banking,Delivered
+O0064,2026-01-30,2026,1,January,30,Friday,C007,Aditya Verma,Pune,West,Regular,P009,Coffee Maker,Home & Kitchen,HomeBrew,3499,4,13996,High Value,Credit Card,Cancelled
+O0088,2026-01-30,2026,1,January,30,Friday,C022,Alina Shah,Pune,West,New,P008,Sneakers,Clothing,StepUp,2999,2,5998,High Value,Debit Card,Cancelled
+O0082,2026-01-30,2026,1,January,30,Friday,C014,Sana Malik,Mumbai,West,New,P013,Python Programming,Books,TechBooks,749,4,2996,Medium Value,Cash on Delivery,Delivered
+O0054,2026-01-30,2026,1,January,30,Friday,C019,Yusuf Dar,Srinagar,North,New,P007,Jacket,Clothing,NorthStyle,2499,3,7497,High Value,Credit Card,Cancelled
+O0048,2026-02-02,2026,2,February,2,Monday,C020,Priya Menon,Chennai,South,Premium,P012,Water Bottle,Home & Kitchen,HydroLife,699,2,1398,Low Value,Debit Card,Cancelled
+O0040,2026-02-03,2026,2,February,3,Tuesday,C008,Sara Ahmed,Hyderabad,South,Premium,P010,Electric Kettle,Home & Kitchen,KitchenPro,1499,4,5996,High Value,Cash on Delivery,Delivered
+O0119,2026-02-03,2026,2,February,3,Tuesday,C015,Karan Joshi,Chandigarh,North,Regular,P019,Cricket Bat,Sports,BatPro,2499,2,4998,Medium Value,Debit Card,Delivered
+O0012,2026-02-03,2026,2,February,3,Tuesday,C017,Dev Patel,Ahmedabad,West,Premium,P008,Sneakers,Clothing,StepUp,2999,5,14995,High Value,Credit Card,Delivered
+O0098,2026-02-03,2026,2,February,3,Tuesday,C009,Arjun Nair,Kochi,South,Regular,P006,Hoodie,Clothing,UrbanWear,1599,1,1599,Low Value,Credit Card,Delivered
+O0023,2026-02-04,2026,2,February,4,Wednesday,C015,Karan Joshi,Chandigarh,North,Regular,P013,Python Programming,Books,TechBooks,749,3,2247,Medium Value,Debit Card,Delivered
+O0066,2026-02-05,2026,2,February,5,Thursday,C004,Ananya Singh,Jammu,North,Regular,P001,Wireless Headphones,Electronics,SoundMax,1499,2,2998,Medium Value,Debit Card,Cancelled
+O0058,2026-02-05,2026,2,February,5,Thursday,C029,Sameer Qureshi,Jammu,North,New,P005,Power Bank,Electronics,VoltPlus,1199,5,5995,High Value,UPI,Cancelled
+O0020,2026-02-06,2026,2,February,6,Friday,C010,Mehak Bhat,Srinagar,North,Premium,P012,Water Bottle,Home & Kitchen,HydroLife,699,3,2097,Medium Value,Credit Card,Delivered
+O0090,2026-02-07,2026,2,February,7,Saturday,C022,Alina Shah,Pune,West,New,P019,Cricket Bat,Sports,BatPro,2499,2,4998,Medium Value,Cash on Delivery,Shipped
+O0096,2026-02-07,2026,2,February,7,Saturday,C002,Zoya Khan,Delhi,North,Regular,P013,Python Programming,Books,TechBooks,749,1,749,Low Value,Net Banking,Shipped
+O0093,2026-02-08,2026,2,February,8,Sunday,C012,Aisha Mir,Delhi,North,Premium,P016,Atomic Habits,Books,MindReads,599,3,1797,Low Value,Debit Card,Delivered
+O0075,2026-02-08,2026,2,February,8,Sunday,C027,Harsh Vardhan,Noida,North,Premium,P004,Smart Watch,Electronics,FitTech,3299,4,13196,High Value,UPI,Delivered
+O0006,2026-02-09,2026,2,February,9,Monday,C003,Rohan Mehta,Mumbai,West,Premium,P018,Football,Sports,SportZone,799,3,2397,Medium Value,UPI,Delivered
+O0039,2026-02-09,2026,2,February,9,Monday,C016,Hiba Sheikh,Srinagar,North,Premium,P020,Dumbbell Set,Sports,StrongFit,1999,5,9995,High Value,Credit Card,Delivered
+O0007,2026-02-10,2026,2,February,10,Tuesday,C011,Vivaan Kapoor,Jaipur,North,New,P003,Wireless Mouse,Electronics,TechGear,899,3,2697,Medium Value,UPI,Delivered
+O0114,2026-02-12,2026,2,February,12,Thursday,C019,Yusuf Dar,Srinagar,North,New,P011,Air Fryer,Home & Kitchen,CookSmart,4999,5,24995,High Value,Credit Card,Delivered
+O0033,2026-02-13,2026,2,February,13,Friday,C010,Mehak Bhat,Srinagar,North,Premium,P008,Sneakers,Clothing,StepUp,2999,5,14995,High Value,Credit Card,Delivered
+O0047,2026-02-15,2026,2,February,15,Sunday,C005,Kabir Ali,Lucknow,North,New,P004,Smart Watch,Electronics,FitTech,3299,5,16495,High Value,Credit Card,Cancelled
+O0015,2026-02-16,2026,2,February,16,Monday,C027,Harsh Vardhan,Noida,North,Premium,P011,Air Fryer,Home & Kitchen,CookSmart,4999,3,14997,High Value,Credit Card,Cancelled
+O0078,2026-02-17,2026,2,February,17,Tuesday,C029,Sameer Qureshi,Jammu,North,New,P004,Smart Watch,Electronics,FitTech,3299,5,16495,High Value,Cash on Delivery,Delivered
+O0050,2026-02-18,2026,2,February,18,Wednesday,C020,Priya Menon,Chennai,South,Premium,P001,Wireless Headphones,Electronics,SoundMax,1499,1,1499,Low Value,Credit Card,Shipped
+O0116,2026-02-19,2026,2,February,19,Thursday,C025,Reyansh Jain,Kolkata,East,New,P010,Electric Kettle,Home & Kitchen,KitchenPro,1499,1,1499,Low Value,Net Banking,Delivered
+O0001,2026-02-19,2026,2,February,19,Thursday,C027,Harsh Vardhan,Noida,North,Premium,P019,Cricket Bat,Sports,BatPro,2499,2,4998,Medium Value,Credit Card,Delivered
+O0024,2026-02-20,2026,2,February,20,Friday,C030,Riya Kapoor,Bengaluru,South,Premium,P001,Wireless Headphones,Electronics,SoundMax,1499,4,5996,High Value,Net Banking,Delivered
+O0014,2026-02-20,2026,2,February,20,Friday,C007,Aditya Verma,Pune,West,Regular,P010,Electric Kettle,Home & Kitchen,KitchenPro,1499,4,5996,High Value,UPI,Shipped
+O0117,2026-02-21,2026,2,February,21,Saturday,C019,Yusuf Dar,Srinagar,North,New,P015,Machine Learning Basics,Books,AIPress,999,3,2997,Medium Value,Cash on Delivery,Shipped
+O0092,2026-02-21,2026,2,February,21,Saturday,C027,Harsh Vardhan,Noida,North,Premium,P006,Hoodie,Clothing,UrbanWear,1599,2,3198,Medium Value,Debit Card,Delivered
+O0068,2026-02-22,2026,2,February,22,Sunday,C018,Manya Rao,Bengaluru,South,Regular,P010,Electric Kettle,Home & Kitchen,KitchenPro,1499,2,2998,Medium Value,Debit Card,Delivered
+O0067,2026-02-22,2026,2,February,22,Sunday,C005,Kabir Ali,Lucknow,North,New,P017,Yoga Mat,Sports,FitLife,899,1,899,Low Value,Debit Card,Delivered
+O0055,2026-02-23,2026,2,February,23,Monday,C008,Sara Ahmed,Hyderabad,South,Premium,P009,Coffee Maker,Home & Kitchen,HomeBrew,3499,4,13996,High Value,Net Banking,Cancelled
+O0101,2026-02-24,2026,2,February,24,Tuesday,C009,Arjun Nair,Kochi,South,Regular,P012,Water Bottle,Home & Kitchen,HydroLife,699,1,699,Low Value,UPI,Delivered
+O0097,2026-02-24,2026,2,February,24,Tuesday,C004,Ananya Singh,Jammu,North,Regular,P006,Hoodie,Clothing,UrbanWear,1599,2,3198,Medium Value,Cash on Delivery,Delivered
+O0083,2026-02-24,2026,2,February,24,Tuesday,C009,Arjun Nair,Kochi,South,Regular,P013,Python Programming,Books,TechBooks,749,1,749,Low Value,Debit Card,Shipped
+O0063,2026-02-25,2026,2,February,25,Wednesday,C030,Riya Kapoor,Bengaluru,South,Premium,P020,Dumbbell Set,Sports,StrongFit,1999,3,5997,High Value,Credit Card,Shipped
+O0095,2026-02-25,2026,2,February,25,Wednesday,C015,Karan Joshi,Chandigarh,North,Regular,P011,Air Fryer,Home & Kitchen,CookSmart,4999,2,9998,High Value,Cash on Delivery,Delivered
+O0016,2026-02-25,2026,2,February,25,Wednesday,C011,Vivaan Kapoor,Jaipur,North,New,P008,Sneakers,Clothing,StepUp,2999,3,8997,High Value,UPI,Delivered
+O0003,2026-02-26,2026,2,February,26,Thursday,C015,Karan Joshi,Chandigarh,North,Regular,P004,Smart Watch,Electronics,FitTech,3299,1,3299,Medium Value,Cash on Delivery,Delivered
+O0044,2026-02-27,2026,2,February,27,Friday,C016,Hiba Sheikh,Srinagar,North,Premium,P019,Cricket Bat,Sports,BatPro,2499,4,9996,High Value,Credit Card,Delivered
+O0017,2026-02-27,2026,2,February,27,Friday,C023,Nikhil Sood,Chandigarh,North,Premium,P011,Air Fryer,Home & Kitchen,CookSmart,4999,4,19996,High Value,Net Banking,Delivered
+O0049,2026-02-27,2026,2,February,27,Friday,C010,Mehak Bhat,Srinagar,North,Premium,P006,Hoodie,Clothing,UrbanWear,1599,3,4797,Medium Value,Cash on Delivery,Delivered
+O0035,2026-03-01,2026,3,March,1,Sunday,C003,Rohan Mehta,Mumbai,West,Premium,P007,Jacket,Clothing,NorthStyle,2499,2,4998,Medium Value,Net Banking,Cancelled
+O0085,2026-03-01,2026,3,March,1,Sunday,C028,Inaya Khan,Mumbai,West,Regular,P011,Air Fryer,Home & Kitchen,CookSmart,4999,2,9998,High Value,Cash on Delivery,Delivered
+O0073,2026-03-02,2026,3,March,2,Monday,C029,Sameer Qureshi,Jammu,North,New,P004,Smart Watch,Electronics,FitTech,3299,3,9897,High Value,Debit Card,Cancelled
+O0057,2026-03-02,2026,3,March,2,Monday,C027,Harsh Vardhan,Noida,North,Premium,P008,Sneakers,Clothing,StepUp,2999,2,5998,High Value,Cash on Delivery,Delivered
+O0061,2026-03-02,2026,3,March,2,Monday,C020,Priya Menon,Chennai,South,Premium,P002,Mechanical Keyboard,Electronics,KeyPro,2499,2,4998,Medium Value,Credit Card,Delivered
+O0103,2026-03-03,2026,3,March,3,Tuesday,C022,Alina Shah,Pune,West,New,P005,Power Bank,Electronics,VoltPlus,1199,1,1199,Low Value,Debit Card,Delivered
+O0004,2026-03-04,2026,3,March,4,Wednesday,C024,Maryam Khan,Hyderabad,South,Regular,P015,Machine Learning Basics,Books,AIPress,999,3,2997,Medium Value,Net Banking,Delivered
+O0010,2026-03-05,2026,3,March,5,Thursday,C026,Fatima Noor,Srinagar,North,Regular,P005,Power Bank,Electronics,VoltPlus,1199,2,2398,Medium Value,Debit Card,Shipped
+O0030,2026-03-05,2026,3,March,5,Thursday,C017,Dev Patel,Ahmedabad,West,Premium,P010,Electric Kettle,Home & Kitchen,KitchenPro,1499,3,4497,Medium Value,Net Banking,Shipped
+O0019,2026-03-05,2026,3,March,5,Thursday,C019,Yusuf Dar,Srinagar,North,New,P017,Yoga Mat,Sports,FitLife,899,4,3596,Medium Value,Net Banking,Delivered
+O0059,2026-03-09,2026,3,March,9,Monday,C017,Dev Patel,Ahmedabad,West,Premium,P020,Dumbbell Set,Sports,StrongFit,1999,2,3998,Medium Value,Net Banking,Delivered
+O0118,2026-03-09,2026,3,March,9,Monday,C025,Reyansh Jain,Kolkata,East,New,P016,Atomic Habits,Books,MindReads,599,4,2396,Medium Value,Credit Card,Delivered
+O0052,2026-03-10,2026,3,March,10,Tuesday,C024,Maryam Khan,Hyderabad,South,Regular,P008,Sneakers,Clothing,StepUp,2999,5,14995,High Value,Debit Card,Delivered
+O0009,2026-03-13,2026,3,March,13,Friday,C024,Maryam Khan,Hyderabad,South,Regular,P009,Coffee Maker,Home & Kitchen,HomeBrew,3499,2,6998,High Value,UPI,Cancelled
+O0036,2026-03-14,2026,3,March,14,Saturday,C026,Fatima Noor,Srinagar,North,Regular,P016,Atomic Habits,Books,MindReads,599,5,2995,Medium Value,Debit Card,Shipped
+O0065,2026-03-14,2026,3,March,14,Saturday,C024,Maryam Khan,Hyderabad,South,Regular,P020,Dumbbell Set,Sports,StrongFit,1999,2,3998,Medium Value,Cash on Delivery,Delivered
+O0089,2026-03-14,2026,3,March,14,Saturday,C015,Karan Joshi,Chandigarh,North,Regular,P008,Sneakers,Clothing,StepUp,2999,4,11996,High Value,Credit Card,Shipped
+O0111,2026-03-14,2026,3,March,14,Saturday,C001,Aarav Sharma,Srinagar,North,Premium,P001,Wireless Headphones,Electronics,SoundMax,1499,4,5996,High Value,Debit Card,Delivered
+O0060,2026-03-15,2026,3,March,15,Sunday,C007,Aditya Verma,Pune,West,Regular,P006,Hoodie,Clothing,UrbanWear,1599,1,1599,Low Value,Debit Card,Cancelled
+O0109,2026-03-17,2026,3,March,17,Tuesday,C023,Nikhil Sood,Chandigarh,North,Premium,P019,Cricket Bat,Sports,BatPro,2499,5,12495,High Value,Debit Card,Cancelled
+O0070,2026-03-18,2026,3,March,18,Wednesday,C011,Vivaan Kapoor,Jaipur,North,New,P004,Smart Watch,Electronics,FitTech,3299,2,6598,High Value,Net Banking,Delivered
+O0100,2026-03-19,2026,3,March,19,Thursday,C003,Rohan Mehta,Mumbai,West,Premium,P008,Sneakers,Clothing,StepUp,2999,4,11996,High Value,Credit Card,Delivered
+O0053,2026-03-19,2026,3,March,19,Thursday,C021,Aman Kumar,Delhi,North,Regular,P004,Smart Watch,Electronics,FitTech,3299,3,9897,High Value,Credit Card,Cancelled
+O0074,2026-03-19,2026,3,March,19,Thursday,C014,Sana Malik,Mumbai,West,New,P013,Python Programming,Books,TechBooks,749,4,2996,Medium Value,Credit Card,Delivered
+O0072,2026-03-21,2026,3,March,21,Saturday,C029,Sameer Qureshi,Jammu,North,New,P009,Coffee Maker,Home & Kitchen,HomeBrew,3499,4,13996,High Value,Net Banking,Cancelled
+O0013,2026-03-22,2026,3,March,22,Sunday,C005,Kabir Ali,Lucknow,North,New,P009,Coffee Maker,Home & Kitchen,HomeBrew,3499,3,10497,High Value,Cash on Delivery,Delivered
+O0113,2026-03-22,2026,3,March,22,Sunday,C008,Sara Ahmed,Hyderabad,South,Premium,P014,Data Science Handbook,Books,DataPress,899,1,899,Low Value,UPI,Delivered
+O0031,2026-03-24,2026,3,March,24,Tuesday,C013,Rahul Das,Kolkata,East,Regular,P014,Data Science Handbook,Books,DataPress,899,2,1798,Low Value,Debit Card,Delivered
+O0062,2026-03-25,2026,3,March,25,Wednesday,C009,Arjun Nair,Kochi,South,Regular,P014,Data Science Handbook,Books,DataPress,899,2,1798,Low Value,UPI,Delivered
+O0077,2026-03-27,2026,3,March,27,Friday,C006,Ishita Gupta,Bengaluru,South,Premium,P020,Dumbbell Set,Sports,StrongFit,1999,3,5997,High Value,Net Banking,Delivered
+O0008,2026-03-27,2026,3,March,27,Friday,C020,Priya Menon,Chennai,South,Premium,P005,Power Bank,Electronics,VoltPlus,1199,4,4796,Medium Value,Debit Card,Delivered
+O0087,2026-03-28,2026,3,March,28,Saturday,C006,Ishita Gupta,Bengaluru,South,Premium,P004,Smart Watch,Electronics,FitTech,3299,5,16495,High Value,Cash on Delivery,Cancelled
+O0005,2026-03-29,2026,3,March,29,Sunday,C025,Reyansh Jain,Kolkata,East,New,P009,Coffee Maker,Home & Kitchen,HomeBrew,3499,5,17495,High Value,Credit Card,Delivered
+O0080,2026-03-29,2026,3,March,29,Sunday,C026,Fatima Noor,Srinagar,North,Regular,P019,Cricket Bat,Sports,BatPro,2499,5,12495,High Value,Debit Card,Delivered
+O0037,2026-03-30,2026,3,March,30,Monday,C028,Inaya Khan,Mumbai,West,Regular,P005,Power Bank,Electronics,VoltPlus,1199,1,1199,Low Value,Credit Card,Delivered
